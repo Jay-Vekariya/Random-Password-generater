@@ -1,0 +1,27 @@
+.mainblock{
+    padding: 20px;
+    border: 3px;
+    background-color: blueviolet;
+    height: 500px;
+    width: 500px;
+    text-align: center;
+    margin-left: 35%;
+    margin-top: 8%;
+    border-radius: 15px;
+}
+.blockI{
+    padding: 5px;
+    background-color: brown;
+}
+.drop-dwon{
+    padding-top: 10px;
+}
+label{
+    word-spacing: 5px;
+}
+#btwn{
+    padding-top: 15px;
+}
+#password-one{
+    margin: 20px;
+}
